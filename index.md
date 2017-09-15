@@ -12,7 +12,7 @@ Program Learning
 
 ### News
 
-September 8, 2017, Program Learning:
+September 8, 2017:
 Genetic Algorithm, Genetic Programming, Evolutionary Programming
 
 ### Publications
