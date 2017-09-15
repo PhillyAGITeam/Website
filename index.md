@@ -4,8 +4,12 @@ This is the website of the Philly AGI Team.
 
 ### Discussions
 
- [Discussion Group](https://groups.google.com/forum/#!forum/pagit)
+[Discussion Group](https://groups.google.com/forum/#!forum/pagit)
  
+### Current Focus
+
+Program Learning
+
 ### Publications
  
- Nothing here yet..
+Nothing there yet..
