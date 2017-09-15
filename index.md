@@ -8,7 +8,11 @@ This is the website of the Philly AGI Team.
  
 ### Current Focus
 
-Program Learning
+Program Learning, so far addressed: Genetic Algorithm, Genetic Programming, Evolutionary Programming
+
+### Presentations
+ 
+Nothing there yet..
 
 ### Publications
  
