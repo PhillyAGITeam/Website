@@ -2,17 +2,18 @@
 
 This is the website of the Philly AGI Team.
 
+### Current Focus
+
+Program Learning
+
 ### Discussions
 
 [Discussion Group](https://groups.google.com/forum/#!forum/pagit)
- 
-### Current Focus
 
-Program Learning, so far addressed: Genetic Algorithm, Genetic Programming, Evolutionary Programming
+### News
 
-### Presentations
- 
-Nothing there yet..
+September 8, 2017, Program Learning:
+Genetic Algorithm, Genetic Programming, Evolutionary Programming
 
 ### Publications
  
