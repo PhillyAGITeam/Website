@@ -4,18 +4,18 @@ This is the website of the Philly AGI Team.
 
 ### Current Focus
 
-Program Learning, related discussions:
-  - [Intelligence vs. Evolution](https://groups.google.com/forum/#!topic/pagit/pejoZ7vwNUo)
+Program Learning
 
-### Discussions
-
-[Discussion Group](https://groups.google.com/forum/#!forum/pagit)
-
-### News
+### Presentations
 
 September 8, 2017:
-Genetic Algorithm, Genetic Programming, Evolutionary Programming.
+Genetic Algorithm, Genetic Programming, Evolutionary Programming, related discussions:
+  - [Intelligence vs. Evolution](https://groups.google.com/forum/#!topic/pagit/pejoZ7vwNUo)
 
 ### Publications
  
 Nothing there yet..
+
+### Links
+
+[Discussion Group](https://groups.google.com/forum/#!forum/pagit)
