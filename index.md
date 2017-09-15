@@ -14,6 +14,7 @@ Program Learning
 
 September 8, 2017:
 Genetic Algorithm, Genetic Programming, Evolutionary Programming
+Related Discussions: [Intelligence vs. Evolution](https://groups.google.com/forum/#!topic/pagit/oT1RuzrdcnU)
 
 ### Publications
  
