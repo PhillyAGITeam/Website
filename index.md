@@ -9,7 +9,7 @@ Program Learning
 ### Presentations
 
 September 15, 2017:
-Evoluationary Programming, week2: Stack Based Genetic Programming, involving Types, GA on Neural Networks as in NEAT, Learned Classifier Systems etc.
+Evoluationary Programming, week 2: Stack and Grammar Based Genetic Programming, involving Types, GA on Neural Networks as in NEAT, Learned Classifier Systems etc.
 
 September 8, 2017:
 Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programming, related discussions: [Intelligence vs. Evolution](https://groups.google.com/forum/#!topic/pagit/pejoZ7vwNUo), related repositories: [UnitGP](https://github.com/wpower12/UnitGP)
