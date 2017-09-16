@@ -1,7 +1,5 @@
 ## Welcome!
 
-This is the website of the Philly AGI Team.
-
 ### Current Focus
 
 Program Learning
