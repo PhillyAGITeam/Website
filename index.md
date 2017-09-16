@@ -1,5 +1,7 @@
 ## Welcome!
 
+We are the Philly AGI Team at Temple University. We do research and experiments in the field of Artificial General Intelligence.
+
 ### Current Focus
 
 Program Learning
@@ -7,7 +9,7 @@ Program Learning
 ### Presentations
 
 September 15, 2017:
-Evoluationary Programming, part2: Stack Based Genetic Programming, involving Types, GA on Neural Networks as in NEAT, Learned Classifier Systems etc.
+Evoluationary Programming, week2: Stack Based Genetic Programming, involving Types, GA on Neural Networks as in NEAT, Learned Classifier Systems etc.
 
 September 8, 2017:
 Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programming, related discussions: [Intelligence vs. Evolution](https://groups.google.com/forum/#!topic/pagit/pejoZ7vwNUo), related repositories: [UnitGP](https://github.com/wpower12/UnitGP)
@@ -19,3 +21,11 @@ Nothing there yet..
 ### Links
 
 [Discussion Group](https://groups.google.com/forum/#!forum/pagit)
+
+### Contact
+
+Email: PAGIT@googlegroups.com
+
+
+
+
