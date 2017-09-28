@@ -52,6 +52,7 @@ Hongzheng Wang
 ### Adjunct Members
 
 Quinn Dougherty
+
 Ayo Arum
 
 
