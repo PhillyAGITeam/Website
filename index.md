@@ -33,10 +33,6 @@ Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programmi
 
 [Internal Team Discussion](https://groups.google.com/forum/#!forum/pagit)
 
-### Contact
-
-Email: PAGIT@googlegroups.com
-
 ### Members
 
 [Pei Wang](https://cis.temple.edu/~wangp/)
@@ -55,6 +51,8 @@ Quinn Dougherty
 
 Ayo Arum
 
+### Contact
 
+Email: PAGIT@googlegroups.com
 
 
