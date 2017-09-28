@@ -9,7 +9,7 @@ Program Learning
 ### Presentations
 
 September 21, 2017: 
-Reinforcement Learning, week 1: Bellman equation, MDPs, POMDPs, QLearning etc.
+Reinforcement Learning, week 1: Bellman equation, MDPs, POMDPs, QLearning, Credit Assignment etc. Related discussion: [Credit assignment in NARS](https://groups.google.com/forum/#!topic/open-nars/OoaHZ4ss7K8)
 
 September 15, 2017:
 Evoluationary Programming, week 2: Stack and Grammar Based Genetic Programming, involving Types, GA on Neural Networks as in NEAT, Learned Classifier Systems etc. Related discussion: [Genetic Programming Week II](https://groups.google.com/forum/#!topic/pagit/DXUd911-6FM)
