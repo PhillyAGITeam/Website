@@ -19,7 +19,10 @@ Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programmi
 
 ### Publications
  
-(link)
+[Natural Language Processing by Reasoning and Learning](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-1.pdf)
+[Non-Axiomatic Reasoning System solving the Facebook AI Research bAbI tasks](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-2.pdf)
+[Emotions in NARS](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-3.pdf)
+[Understanding as Conceptualizing](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-4.pdf)
 
 ### Links
 
