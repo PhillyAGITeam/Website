@@ -19,15 +19,29 @@ Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programmi
 
 ### Publications
  
-Nothing there yet..
+(link)
 
 ### Links
 
-[Discussion Group](https://groups.google.com/forum/#!forum/pagit)
+[Open-NARS Group](https://groups.google.com/forum/#!forum/open-nars)
+[Internal Team Discussion](https://groups.google.com/forum/#!forum/pagit)
 
 ### Contact
 
 Email: PAGIT@googlegroups.com
+
+### Members
+
+[Pei Wang](https://cis.temple.edu/~wangp/)
+Xiang Li
+[Patrick Hammer](https://www.linkedin.com/in/patrick-hammer-27a248b5/)
+Bill Power
+Hongzheng Wang 
+
+### Adjunct Members
+
+Quinn Dougherty
+Ayo Arum
 
 
 
