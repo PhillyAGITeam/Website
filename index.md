@@ -20,13 +20,17 @@ Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programmi
 ### Publications
  
 [Natural Language Processing by Reasoning and Learning](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-1.pdf)
+
 [Non-Axiomatic Reasoning System solving the Facebook AI Research bAbI tasks](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-2.pdf)
+
 [Emotions in NARS](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-3.pdf)
+
 [Understanding as Conceptualizing](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-4.pdf)
 
 ### Links
 
 [Open-NARS Group](https://groups.google.com/forum/#!forum/open-nars)
+
 [Internal Team Discussion](https://groups.google.com/forum/#!forum/pagit)
 
 ### Contact
@@ -36,9 +40,13 @@ Email: PAGIT@googlegroups.com
 ### Members
 
 [Pei Wang](https://cis.temple.edu/~wangp/)
+
 Xiang Li
+
 [Patrick Hammer](https://www.linkedin.com/in/patrick-hammer-27a248b5/)
+
 Bill Power
+
 Hongzheng Wang 
 
 ### Adjunct Members
