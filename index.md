@@ -8,6 +8,13 @@ Program Learning
 
 ### Presentations
 
+
+October 6, 2017: 
+Deep Learning, week 1: Perceptron, ANN's with multiple layers, Backpropagation, Convolution and Max-Pooling, recent developments in Deep Learning.  
+
+September 28, 2017: 
+Reinforcement Learning, week 2: Deep Reinforcement Learning etc.
+
 September 21, 2017: 
 Reinforcement Learning, week 1: Bellman equation, MDPs, POMDPs, QLearning, Credit Assignment etc. Related discussion: [Credit assignment in NARS](https://groups.google.com/forum/#!topic/open-nars/OoaHZ4ss7K8)
 
