@@ -8,6 +8,8 @@ Program Learning
 
 ### Presentations
 
+October 20, 2017: 
+Deep Learning, week 2: CNN's, RNN's, LSTM's, issues with Deep Learning.
 
 October 6, 2017: 
 Deep Learning, week 1: Perceptron, ANN's with multiple layers, Backpropagation, Convolution and Max-Pooling, recent developments in Deep Learning.  
