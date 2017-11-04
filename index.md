@@ -9,10 +9,11 @@ Program Learning
 ### Presentations
 
 November 3, 2017:
-Program Learning in NARS, week 2: Log intervals, usage of declarative knowledge, working examples.
+Program Learning in NARS, week 2: Log intervals, usage of declarative knowledge, working examples. [Open-NARS source code](https://github.com/opennars/opennars), [NARS-related publications](https://cis.temple.edu/~wangp/papers.html)
 
 October 27, 2017:
 Program Learning in NARS, week 1: Temporal Induction, Anticipation, Inference Control, Projection and Eternalization.
+Related paper: [OpenNARS](http://www.cis.temple.edu/~pwang/Publication/OpenNARS.pdf)
 
 October 20, 2017: 
 Deep Learning, week 2: CNN's, RNN's, LSTM's, inherent issues of Deep Learning.
