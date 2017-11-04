@@ -8,6 +8,12 @@ Program Learning
 
 ### Presentations
 
+November 3, 2017:
+Program Learning in NARS, week 2: Log intervals, usage of declarative knowledge, working examples.
+
+October 27, 2017:
+Program Learning in NARS, week 1: Temporal Induction, Anticipation, Inference Control, Projection and Eternalization.
+
 October 20, 2017: 
 Deep Learning, week 2: CNN's, RNN's, LSTM's, inherent issues of Deep Learning.
 
