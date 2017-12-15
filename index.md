@@ -43,6 +43,8 @@ Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programmi
 
 [Understanding as Conceptualizing](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-4.pdf)
 
+[LazyMiner Project](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-5.pdf)
+
 ### Links
 
 [Open-NARS Group](https://groups.google.com/forum/#!forum/open-nars)
