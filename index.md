@@ -45,6 +45,10 @@ Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programmi
 
 [LazyMiner Project](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-5.pdf)
 
+[Natural Language Processing in NARS: Preliminary Experiments](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-6.pdf)
+
+[Perception in NARS](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-7.pdf)
+
 ### Links
 
 [Open-NARS Group](https://groups.google.com/forum/#!forum/open-nars)
