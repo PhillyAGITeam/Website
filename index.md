@@ -13,7 +13,7 @@ Bayesian inference in AI. [Human-level concept learning
 through probabilistic program induction](http://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)
 
 January 24, 2018:
-The state of OpenNARS and of the LazyMiner project. [LazyMiner](https://groups.google.com/forum/#!topic/open-nars/B-IjA4uQ8wE) [OpenNARS](https://github.com/opennars/opennars)
+The state of OpenNARS and of the LazyMiner project. [LazyMiner](https://groups.google.com/forum/#!topic/open-nars/B-IjA4uQ8wE), [OpenNARS](https://github.com/opennars/opennars)
 
 November 3, 2017:
 Program Learning in NARS, week 2: Log intervals, usage of declarative knowledge, working examples. [Open-NARS source code](https://github.com/opennars/opennars), [NARS-related publications](https://cis.temple.edu/~wangp/papers.html)
