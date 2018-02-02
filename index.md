@@ -4,7 +4,7 @@ We are the Philly AGI Team at Temple University. We do research and experiments 
 
 ### Current Focus
 
-Program Learning
+AGI systems and cognitive architectures (Past: Program Learning)
 
 ### Presentations
 
