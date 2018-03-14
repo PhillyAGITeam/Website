@@ -8,6 +8,13 @@ AGI systems and cognitive architectures (Past: Program Learning)
 
 ### Presentations
 
+February 14, 2018:
+MicroPsi agent architecture: Interaction of emotion, motivation and cognition of situated agents; Psi theory of Dietrich Dörner.
+[Principles of synthetic intelligence](https://www.google.com/search?q=principles+of+synthetic+intelligence)
+
+February 7, 2018:
+LIDA: A System-level Architecture for Cognition, Emotion, and Learning [LIDA Framework]( http://ccrg.cs.memphis.edu/assets/code/vce985f830q4j9/lida-framework-v1.2b.zip)
+
 January 31, 2018:
 Bayesian inference in AI. [Human-level concept learning
 through probabilistic program induction](http://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)
