@@ -79,6 +79,8 @@ Xiang Li
 
 Bill Power
 
+Peter Isaev
+
 Hongzheng Wang 
 
 ### Adjunct Members
@@ -87,7 +89,6 @@ Quinn Dougherty
 
 Ayo Arum
 
-Peter Isaev
 ### Contact
 
 Email: PAGIT@googlegroups.com
