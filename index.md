@@ -4,10 +4,26 @@ We are the Philly AGI Team at Temple University. We do research and experiments 
 
 ### Current Focus
 
-AGI systems and cognitive architectures (Past: Program Learning)
+OpenNARS tutorial (Past: AGI systems and cognitive architectures, Program Learning)
 
 ### Presentations
 
+May 15, 2018:
+OpenNARS workshop.
+[OpenNARS](http://opennars.org/)
+
+April, 2018:
+[Autocatalytic Endogenous Reflective Architecture](http://cadia.ru.is/wiki/_media/public:publications:aera-rutr-scs13002.pdf)
+
+March, 2018:
+Architectures from the Fluid Concepts and Creative Analogies research group:
+[FARG](https://cogsci.indiana.edu/book.html)
+
+February 21, 2018:
+ACT-R: A cognitive architecture based on a production system.
+[ACT-R](http://act-r.psy.cmu.edu/)
+
+February 21, 2018:
 February 14, 2018:
 MicroPsi agent architecture: Interaction of emotion, motivation and cognition of situated agents; Psi theory of Dietrich Dörner.
 [Principles of synthetic intelligence](https://www.google.com/search?q=principles+of+synthetic+intelligence)
