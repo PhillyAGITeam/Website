@@ -5,7 +5,7 @@ We are the Philly AGI Team at Temple University. We do research and experiments 
 ### Current Focus
 
 OpenNARS Technical Tutorial (Past: AGI systems and cognitive architectures, Program Learning)
-[OpenNARSTechTut](https://github.com/opennars/opennars/wiki/OpenNARS-Technical-Tutorial-1)
+[OpenNARS-Technical-Tutorial](https://github.com/opennars/opennars/wiki/OpenNARS-Technical-Tutorial-1)
 
 ### Presentations
 
