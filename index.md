@@ -16,6 +16,10 @@ OpenNARS workshop.
 April, 2018:
 [Autocatalytic Endogenous Reflective Architecture](http://cadia.ru.is/wiki/_media/public:publications:aera-rutr-scs13002.pdf)
 
+April, 2018:
+Sigma Cognitive Architecture
+[Sigma](http://cogarch.ict.usc.edu/)
+
 March, 2018:
 Architectures from the Fluid Concepts and Creative Analogies research group:
 [FARG](https://cogsci.indiana.edu/book.html)
