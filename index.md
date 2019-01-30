@@ -104,12 +104,6 @@ Peter Isaev
 
 Hongzheng Wang 
 
-### Adjunct Members
-
-Quinn Dougherty
-
-Ayo Arum
-
 ### Contact
 
 Email: PAGIT@googlegroups.com
