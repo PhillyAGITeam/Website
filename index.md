@@ -50,8 +50,11 @@ September 30, 2019:
 Paper review: Gestalt Principles
 
 First quarter of 2019:
+
 Utilizing ConceptNet in NARS
+
 An intelligent plan revision system for robots based on NARS
+
 Introspective Learning, Reasoning and Decision Making in NARS
 
 September 9, 2018 - November 14 2018:
