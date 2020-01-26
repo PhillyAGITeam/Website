@@ -1,13 +1,62 @@
 ## Welcome!
 
-We are the Philly AGI Team at Temple University. We do research and experiments in the field of Artificial General Intelligence.
-
-### Current Focus
-
-OpenNARS Technical Tutorial (Past: AGI systems and cognitive architectures, Program Learning)
-[OpenNARS-Technical-Tutorial](https://github.com/opennars/opennars/wiki/OpenNARS-Technical-Tutorial-1)
+We are the Temple AGI Team. We do research and experiments in the field of Artificial General Intelligence.
 
 ### Presentations
+
+February 5, 2020:
+Paper review: A Cognitive Architecture for Robot Self-Consciousness						
+
+January 29, 2020:
+Paper review: A Broad Vision for Intelligent Behavior
+
+Januar 22, 2020: 
+Paper review: CONSCIOUSNESS IS COMPUTATIONAL:THE LIDA MODEL OF GLOBAL WORKSPACE THEORY
+														
+February 12, 2020:
+Paper review: Anytime Bounded Rationality
+
+February 19, 2020:
+Paper review: The Copycat Project: A Model of Mental Fluidity and Analogy-Making*
+
+Dezember 9, 2019:	
+Paper review: A General Architecture for Robotics Systems: A Perception-Based Approach to Artificial Life
+
+December 2, 2019:
+Paper review: Perceptual symbol systems
+
+November 18, 2019:
+Paper review: A sensorimotor account of vision and visual consciousness
+
+November 4, 2019:
+Paper review: Life Learning and Cumulative Learning
+
+November 11, 2019:
+Paper review: The Construction of Reality in the Child
+
+October 28, 2019:
+Paper review: A Stochastic Grammar of Images
+
+October 21, 2019:
+Paper review: Consciousness, Intentionality, and Causality
+
+October 14, 2019:
+Paper review: The Theory of Event Coding (TEC): A framework for perception and action planning
+
+October 7, 2019:
+Paper review: The Brain's concepts: the role of the Sensory-motor system in conceptual knowledge
+
+September 30, 2019:
+Paper review: Gestalt Principles
+
+First quarter of 2019:
+Utilizing ConceptNet in NARS
+An intelligent plan revision system for robots based on NARS
+Introspective Learning, Reasoning and Decision Making in NARS
+
+September 9, 2018 - November 14 2018:
+OpenNARS Technical Tutorial (Past: AGI systems and cognitive architectures, Program Learning)
+[OpenNARS-Technical-Tutorial](https://github.com/opennars/opennars/wiki/OpenNARS-Technical-Tutorial-1)
 
 May 15, 2018:
 OpenNARS workshop.
@@ -90,6 +139,8 @@ Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programmi
 
 ### Links
 
+[Open-NARS Github Group](https://github.com/NARS-team)
+
 [Open-NARS Group](https://groups.google.com/forum/#!forum/open-nars)
 
 [Internal Team Discussion](https://groups.google.com/forum/#!forum/pagit)
@@ -102,11 +153,9 @@ Xiang Li
 
 [Patrick Hammer](https://www.linkedin.com/in/patrick-hammer-27a248b5/)
 
-Bill Power
-
 Peter Isaev
 
-Hongzheng Wang 
+Hongzheng Wang
 
 ### Contact
 
