@@ -61,7 +61,7 @@ Paper review: CONSCIOUSNESS IS COMPUTATIONAL:THE LIDA MODEL OF GLOBAL WORKSPACE 
 
 [Internal Team Discussion](https://groups.google.com/forum/#!forum/pagit)
 
-[OpenNARS](www.opennars.org)
+[OpenNARS](https://www.opennars.org)
 
 [Selected OpenNARS Videos](https://github.com/opennars/opennars/wiki/Selected-Videos)
 
