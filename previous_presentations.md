@@ -1,21 +1,3 @@
-
-### Presentations
-
-February 19, 2020:
-Paper review: The Copycat Project: A Model of Mental Fluidity and Analogy-Making*
-
-February 12, 2020:
-Paper review: Anytime Bounded Rationality
-
-February 5, 2020:
-Paper review: A Cognitive Architecture for Robot Self-Consciousness						
-
-January 29, 2020:
-Paper review: A Broad Vision for Intelligent Behavior
-
-Januar 22, 2020: 
-Paper review: CONSCIOUSNESS IS COMPUTATIONAL:THE LIDA MODEL OF GLOBAL WORKSPACE THEORY
-														
 ### Presentations, previous semesters
 
 Dezember 9, 2019:	
