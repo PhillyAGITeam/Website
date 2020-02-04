@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+navbar-links:
+  - Current events: "https://phillyagiteam.github.io/Website/"
+  - Previous Presentations: "https://phillyagiteam.github.io/Website/previous_presentations.html"
