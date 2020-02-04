@@ -101,4 +101,4 @@ Evoluationary Programming, week 2: Stack and Grammar Based Genetic Programming, 
 September 8, 2017:
 Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programming, related discussions: [Intelligence vs. Evolution](https://groups.google.com/forum/#!topic/pagit/pejoZ7vwNUo), related repositories: [UnitGP](https://github.com/wpower12/UnitGP)
 
-[Back](index.md)
+[Back](index.html)
