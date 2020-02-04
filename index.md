@@ -78,8 +78,3 @@ Peter Isaev
 Hongzheng Wang
 
 Mina Gabriel
-
-### Contact
-
-Email: PAGIT@googlegroups.com
-
