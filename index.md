@@ -2,11 +2,11 @@
 
 We are the Temple AGI Team. We do research and experiments in the field of Artificial General Intelligence.
 
-### Events:
+### Events
 
 NARS workshop at AGI-20, see [http://agi-conf.org/2020/workshops/](AGI-20 workshops)
 
-### Past events:
+### Past events
 
 NARS tutorial and workshop at AGI-19, see [https://cis.temple.edu/tagit/events/NARS-AGI19.html](NARS-AGI19)
 
